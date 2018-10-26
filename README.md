@@ -1,7 +1,7 @@
 # Template Skripsi FMIPA UGM versi Latex
 [![PR's Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-Template Latex Skripsi FMIPA UGM. Lanjutan modifikasi template official tanpa harus pakai Sharelatex. 
+Template Latex Skripsi FMIPA UGM. Lanjutan modifikasi template official tanpa harus pakai Sharelatex.
 
 ## Table Of Contents
  - [Brief description](#what-are-in-this-repository)
@@ -28,17 +28,18 @@ Template Latex Skripsi FMIPA UGM. Lanjutan modifikasi template official tanpa ha
  Disini terdapat dua opsi untuk install compiler latex. [Full](#install-package-latex-secara-keseluruhan) dan seperlunya.
 
 ### Full Package Install
-* Buka terminal dan masukkan
+* Buka terminal dan ketik
   ```bash
 sudo apt-get install texlive-full
   ```
+
 ### Basic Package Install
-- Buka terminal dan masukkan
+- Buka terminal dan ketik
   ```bash
 sudo apt-get install texlive texlive-base texlive-lang-english texlive-lang-other
   ```
 
-## how to compile into pdf?
+## How to compile into pdf?
 
 - Buat build script menjadi executable
   ```bash
@@ -62,7 +63,7 @@ Pakai MikTex saja kalau tidak mau ribet! GUI enak!
 
 ## Ada Internet?
 
-[Sharelatex](https://www.sharelatex.com)
+Bisa pakai [Overleaf](https://www.overleaf.com/).
 
 # Selamat Mengerjakan Skripsi!!!
 
